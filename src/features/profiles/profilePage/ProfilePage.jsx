@@ -1,12 +1,12 @@
-import React from "react";
-import { useDispatch, useSelector } from "react-redux";
-import useFirestoreDoc from "../../../app/hooks/useFirestoreDoc";
-import { Grid } from "semantic-ui-react";
-import ProfileContent from "./ProfileContent";
-import ProfileHeader from "./ProfileHeader";
-import { getUserProfile } from "../../../app/firestore/firestoreService";
-import { listenToSelectedUserProfile } from "../profileActions";
-import LoadingComponent from "../../../app/layout/LoadingComponent";
+import React from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import useFirestoreDoc from '../../../app/hooks/useFirestoreDoc';
+import { Grid } from 'semantic-ui-react';
+import ProfileContent from './ProfileContent';
+import ProfileHeader from './ProfileHeader';
+import { getUserProfile } from '../../../app/firestore/firestoreService';
+import { listenToSelectedUserProfile } from '../profileActions';
+import LoadingComponent from '../../../app/layout/LoadingComponent';
 
 export default function ProfilePage({ match }) {
 	const dispatch = useDispatch();
