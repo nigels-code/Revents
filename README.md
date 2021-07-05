@@ -4,7 +4,7 @@ I wrote this while following Neil Cumming's "Build an app with React, Redux and 
 
 A web application for creating and sharing events.
 
-Technologies used: React, Redux, Firestore, Javascript, HTML, CSS
+Technologies used: React, Redux, Firebase (Firestore), Javascript, HTML, CSS
 
 ## Installation
 ```sh
