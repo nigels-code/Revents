@@ -15,18 +15,6 @@ Open <https://revents.pages.dev/> to see this project in production.
 npm install
 ```
 
-In order to use Firestore in development mode you need to supply your own credentials. You can do this by creating a `.env.local` file in the project's root directory and adding the following code:
-
-```sh
-REACT_APP_API_KEY='your api key'
-REACT_APP_AUTH_DOMAIN="your auth domain"
-REACT_APP_DATABASE_URL="your database url"
-REACT_APP_PROJECT_ID="your project id"
-REACT_APP_STORAGE_BUCKET="your storage bucket"
-REACT_APP_MESSAGING_SENDER_ID="your messaging sender id"
-REACT_APP_APP_ID="your app id"
-```
-
 ## Usage
 
 ```sh
