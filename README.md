@@ -6,8 +6,8 @@ A web application for creating and sharing events.
 
 Technologies used: React, Redux, Firebase (Firestore), Javascript, HTML, CSS.
 
-I have set up a CI/CD pipeline between Github and Heroku.  
-Open <https://reventsxx.herokuapp.com/> to see this project in production.
+I have set up a CI/CD pipeline between Github and Cloudflare Pages.  
+Open <https://revents.pages.dev/> to see this project in production.
 
 ## Installation
 
