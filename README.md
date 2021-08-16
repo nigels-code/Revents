@@ -2,11 +2,9 @@
 
 I wrote this while following Neil Cumming's "Build an app with React, Redux and Firestore from scratch" course.
 
-A web application for creating and sharing events.
+A Single Page Application developed with React, Redux, Firebase (Firestore), Javascript, HTML, CSS.
 
-Technologies used: React, Redux, Firebase (Firestore), Javascript, HTML, CSS.
-
-I have connected this repo to Cloudflare Pages
+I have connected this repo to Cloudflare Pages.  
 Open <https://revents.pages.dev/> to see the project in production.
 
 ## Installation
