@@ -2,7 +2,7 @@
 
 I wrote this while following Neil Cumming's "Build an app with React, Redux and Firestore from scratch" course.
 
-A Single Page Application developed with React, Redux, Firebase (Firestore), Javascript, HTML, CSS.
+A Single Page Application developed with React, Redux, Firebase (Firestore), JavaScript, HTML, CSS.
 
 I have connected this repo to Cloudflare Pages.  
 Open <https://revents.pages.dev/> to see the project in production.
